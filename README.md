@@ -1,4 +1,4 @@
-# Biden vs Trump: Modelling US general elections using BERT language model
+# Ruto vs Raila: Modelling Kenya  general elections using BERT language model
 
 > In this ReadMe we'll try to summarize all the results that we have obtained throughout the process of our research
 
